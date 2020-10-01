@@ -1,0 +1,41 @@
+.btn-black {
+	background-color: black;
+	padding: 10PX;
+	border-radius: 4px;
+	width: 200px;
+	margin:40px auto;
+}
+
+.btn-black:hover {
+	text-decoration: underline;
+	color:#FFCD00;
+}
+
+.btn-white {
+	background-color: white;
+	color: black;
+	font-weight: bold;
+	padding: 10PX;
+	border-radius: 4px;
+	width: 200px;
+	margin: 0px 20px 0px 0px;
+}
+
+.btn-white-left {
+	background-color: white;
+	color: black;
+	font-weight: bold;
+	padding: 10PX;
+	border-radius: 4px;
+	width: 200px;
+	margin: 0px 0px 0px 20px;
+}
+
+.btn-black-end {
+	background-color: black;
+	padding: 10PX;
+}
+
+.btn-black-end:hover {
+	text-decoration: underline;
+	color:#FFCD00;
